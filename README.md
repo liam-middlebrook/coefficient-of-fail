@@ -5,7 +5,7 @@ A Fork of Tom "spot" Callaway's Coefficient of Fail
 
 ## Files
 
-* callaway0howtotellifyourfossprojectisdoomedtofail.pdf
+* callaway-howtotellifyourfossprojectisdoomedtofail.pdf
   This is the original version of Callaway's Coefficient
   of Fail
 
