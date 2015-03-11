@@ -61,7 +61,7 @@ How to tell if a FLOSS project is doomed to FAIL
 
 ## Code Oddities
 
-* Your code has inconsisent line breaks (e.g. "\r\n" vs "\n") **+10 points of FAIL**
+* Your code has inconsistent line breaks (e.g. "\r\n" vs "\n") **+10 points of FAIL**
 
 * Your code depends on specific compiler feature functionality **+20 points of FAIL**
 
@@ -72,7 +72,7 @@ How to tell if a FLOSS project is doomed to FAIL
 
 ## Communication
 
-* Your project doesnt not announce releases publically (e.g. mailing list, GitHub)
+* Your project doesn't not announce releases publicly (e.g. mailing list, GitHub)
   **+10 points of FAIL**
 
 * Your project does not have a bug tracker **+20 points of FAIL**
@@ -124,7 +124,7 @@ How to tell if a FLOSS project is doomed to FAIL
 
 ## Documentation
 
-* Your code doesn't have a changelog **+5 points of FAIL**
+* Your code doesn't have a change log **+5 points of FAIL**
 
 * Your code doesn't have any documentation **+20 points of FAIL**
 
@@ -142,7 +142,7 @@ How to tell if a FLOSS project is doomed to FAIL
 * 65-90 points of FAIL: Babies cry when your code is downloaded.
 
 * 95-130 points of FAIL: Richard Stallman eats from his foot
-  out of boredomm every time your code is downloaded.
+  out of boredom every time your code is downloaded.
 
 * 130-150 points of FAIL: Kittens die when your code is downloaded.
 
